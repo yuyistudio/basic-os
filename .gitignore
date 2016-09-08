@@ -1,0 +1,7 @@
+*.html
+*.o
+*.txt
+bin
+*.output
+*.cbp
+*.layout
