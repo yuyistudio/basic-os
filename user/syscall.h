@@ -1,0 +1,10 @@
+void iPrint( char * _str);
+void iPrintAt( int _row, int _col, char * _str);
+void iMoveCursor( int _offset_to_current_position);
+void iSetCursorAt( int _row, int _col);
+void iSetCursorNextLine();
+void iCls();
+void iDelChar();
+void iPutChar( char _ch);
+void iPutCharAt( int _row, int _col, char _char);
+void Shutdown();
